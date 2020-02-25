@@ -9,7 +9,8 @@ A curated list of packages for Mosquito Brone Virus (MBVs) research
 * [`west-nile-genomics-california`] Sequences from West Nile virus from California and beyond
 * [`zika`] Data repository of publicly available Zika data
 * [`dengue-florida`] Sequences from 2013 DENV-1 outbreak in Martin County, Florida
-* [`zika-epidemiology`] Zika Epidemiology - Case Numbers 
+* [`zika-epidemiology`] Zika Epidemiology - Case Numbers
+* [`DENV-genomics`] Curated dengue virus (serotypes 1-4) coding-complete genomes and metadata from GenBank.
 -------------------------
   Bioinformatics Pipeline
 * [`fieldbioinformatics`] The ARTIC field bioinformatics pipeline
@@ -37,4 +38,7 @@ A curated list of packages for Mosquito Brone Virus (MBVs) research
 * [`treeio`] Base Classes and Functions for Phylogenetic Tree Input and Output
 * [`ggtree`] Visualization and annotation of phylogenetic trees
 * [`ggsci`] Scientific journal and sci-fi themed color palettes for ggplot2
+--------------------------
+  Resource Link
+* [`path-gen_resources Lectures`] papers, and online resources for pathogen sequencing.
 
