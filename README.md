@@ -9,6 +9,7 @@ A curated list of packages for Mosquito Brone Virus (MBVs) research
 * [`west-nile-genomics-california`] Sequences from West Nile virus from California and beyond
 * [`zika`] Data repository of publicly available Zika data
 * [`dengue-florida`] Sequences from 2013 DENV-1 outbreak in Martin County, Florida
+* [`zika-epidemiology`] Zika Epidemiology - Case Numbers 
 -------------------------
   Bioinformatics Pipeline
 * [`fieldbioinformatics`] The ARTIC field bioinformatics pipeline
