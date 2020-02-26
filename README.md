@@ -26,6 +26,8 @@ A curated list of packages for Mosquito Brone Virus (MBVs) research
 --------------------------
   Evolutionary Analysis
 * [`beagle-lib`] general purpose library for evaluating the likelihood of sequence evolution on trees
+* [`babette`] babette is an R package that combines beautier, beastier, mauricer and tracerer
+* [`RWTY`] An R package for examining convergence of Bayesian phylogenetic analyses.
 * [`PACT`] Posterior Analysis of Coalescent Trees
 * [`PhyloSuite`] PhyloSuite is an integrated and scalable desktop platform for streamlined molecular sequence data management and evolutionary phylogenetics studies
 * [`rBLAST`] Interface for the Basic Local Alignment Search Tool (BLAST) - R-Package
