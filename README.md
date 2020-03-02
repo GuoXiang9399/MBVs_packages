@@ -23,6 +23,8 @@ A curated list of packages for Mosquito Brone Virus (MBVs) research
   Research Project
 * [`NatComm_dengue_China`] Code supporting manuscript:  "Inter-annual variation in seasonal dengue epidemics driven by multiple interacting factors in Guangzhou, China"
 * [`DengueTransmissionChains`] Code supporting manuscript: "Dengue diversity across spatial and temporal scales: local structure and the impact of host population size"
+* [`Zika_nmicrobiol_2016`] Model-based projections of Zika virus infections in childbearing women in the Americas
+* [`twDENV`] Inter- and intra-host sequence diversity reveal the emergence of viral variants during an overwintering epidemic caused by dengue virus serotype 2 in southern Taiwan
 --------------------------
   Evolutionary Analysis
 * [`beagle-lib`] general purpose library for evaluating the likelihood of sequence evolution on trees
