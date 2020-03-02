@@ -19,6 +19,7 @@ A curated list of packages for Mosquito Brone Virus (MBVs) research
 * [`zika-pipeline`] The Zika bioinformatics pipeline
 * [`VirVarDP`] Virus variant detection pipeline
 * [`viral-ngs`] Viral genomics analysis pipelines
+* [`mevr-course-2016`] Molecular Epidemiology of Viruses in R
 --------------------------
   Research Project
 * [`NatComm_dengue_China`] Code supporting manuscript:  "Inter-annual variation in seasonal dengue epidemics driven by multiple interacting factors in Guangzhou, China"
