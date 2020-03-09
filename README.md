@@ -34,7 +34,10 @@ A curated list of packages for Mosquito Brone Virus (MBVs) research
 * [`PACT`] Posterior Analysis of Coalescent Trees
 * [`PhyloSuite`] PhyloSuite is an integrated and scalable desktop platform for streamlined molecular sequence data management and evolutionary phylogenetics studies
 * [`rBLAST`] Interface for the Basic Local Alignment Search Tool (BLAST) - R-Package
-* [`phyloscanner`] Phylogenetics between and within hosts at once, all along the genome.
+* [`phyloscanner`] Phylogenetics between and within hosts at once, all along the genome
+--------------------------
+  Metagenomics
+* [`VirFinder`] VirFinder: a novel k-mer based tool for identifying viral sequences from assembled metagenomic data
 --------------------------
   Epidemiology Software
 * [`OutbreakTools`] Basic Tools for the Analysis of Disease Outbreaks
