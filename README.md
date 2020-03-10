@@ -38,6 +38,11 @@ A curated list of packages for Mosquito Brone Virus (MBVs) research
 --------------------------
   Metagenomics
 * [`VirFinder`] VirFinder: a novel k-mer based tool for identifying viral sequences from assembled metagenomic data
+* [`VirSorter`] VirSorter: mining viral signal from microbial genomic data
+* [`racon`] Consensus module for raw de novo DNA assembly of long uncorrected reads
+* [`spades`] SPAdes – St. Petersburg genome assembler – is an assembly toolkit containing various assembly pipelines
+* [`nanoflow`] De novo assembly of nanopore reads using nextflow
+* [`nanopolish`] Nanopolish can calculate an improved consensus sequence for a draft genome assembly
 --------------------------
   Epidemiology Software
 * [`OutbreakTools`] Basic Tools for the Analysis of Disease Outbreaks
